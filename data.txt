@@ -1,0 +1,76 @@
+[
+  {
+    "name": "POPCORN VEG PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 200,
+      "medium": 300,
+      "large": 450
+    },
+    "category": "pureveg",
+    "image": "https://i.pinimg.com/originals/e4/66/e4/e466e490d5c03c04cbc49c74fff5fd47.png",
+    "description": "Popcorn Pizza with cherries"
+  },
+  {
+    "name": "MARGHERITA PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 180,
+      "medium": 280,
+      "large": 400
+    },
+    "category": "pureveg",
+    "image": "https://previews.123rf.com/images/whiterabbit/whiterabbit1202/whiterabbit120200009/12208257-pizza-margherita-isolated-over-white-background-top-view.jpg",
+    "description": "Classic Margherita Pizza with fresh tomatoes and basil"
+  },
+  {
+    "name": "BBQ CHICKEN PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 250,
+      "medium": 380,
+      "large": 550
+    },
+    "category": "nonveg",
+    "image": "https://thumbs.dreamstime.com/b/bbq-chicken-pizza-top-view-cut-pieces-bbq-chicken-pizza-top-view-cut-pieces-isolated-white-170997947.jpg",
+    "description": "BBQ Chicken Pizza with smoky flavors and tender chicken"
+  },
+  {
+    "name": "VEGGIE SUPREME PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 220,
+      "medium": 340,
+      "large": 500
+    },
+    "category": "pureveg",
+    "image": "https://www.appetiserpizza.com/wp-content/uploads/2023/01/Sweet-Vegetarian-Supereme.jpg",
+    "description": "Loaded Veggie Supreme Pizza with a variety of vegetables"
+  },
+ 
+  {
+    "name": "HAWAIIAN PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 230,
+      "medium": 360,
+      "large": 520
+    },
+    "category": "nonveg",
+    "image": "https://static.vecteezy.com/system/resources/previews/010/123/657/non_2x/hawaiian-pizza-isolated-on-white-background-free-photo.jpg",
+    "description": "Classic Hawaiian Pizza with pineapple and ham"
+  },
+
+{
+    "name": "Onion PIZZA",
+    "variants": ["small", "medium", "large"],
+    "prices": {
+      "small": 210,
+      "medium": 320,
+      "large": 500
+    },
+    "category": "veg",
+    "image": "https://img.freepik.com/premium-photo/pizza-with-different-kinds-cheese-onion-jam-isolated-white-background_207126-8568.jpg",
+    "description": "Onion Pizza with popocorns in it"
+  }
+]
